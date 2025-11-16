@@ -200,3 +200,7 @@ dist
 
 ### Astro ###
 .astro/
+
+
+### Jetbrains
+.idea/
